@@ -6,16 +6,39 @@ body,html{
     background: url(../img/maxresdefault.jpg);
     width: 100%;
     height: 100%;
-    text-align: center;
-    
+    text-align: center;  
 }
 .judul{
     font-family: sans-serif;
-    font-size: 40px;
-    color: coral;
-    
-}.sub-header{
-    
-}.isi{
-    
+    font-size: 150px;
+    color: red;    
+}
+.sub-judul{
+    font-family: sans-serif;
+    font-size: 100px;
+    color: red;   
+}
+.section2{
+    padding:100px 0px;
+    background: #EFFFE5;
+}
+.judul{
+    font-family: sans-serif;
+    font-size: 80px;
+    color: black;
+}
+.sub-judul{
+    font-family: sans-serif;
+    font-size: 90px;
+    color: black;
+}
+.col-kiri{
+    background: #CAFFE7;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #7D7C7F;
+}
+.col-kanan{
+    background: #FFE500;
+    font-size: 20px;
 }

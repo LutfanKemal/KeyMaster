@@ -25,12 +25,12 @@ body,html{
 .judul{
     font-family: sans-serif;
     font-size: 80px;
-    color: black;
+    color: green;
 }
 .sub-judul{
     font-family: sans-serif;
     font-size: 90px;
-    color: black;
+    color: greenyellow;
 }
 .col-kiri{
     background: #CAFFE7;
@@ -41,4 +41,16 @@ body,html{
 .col-kanan{
     background: #FFE500;
     font-size: 20px;
+}
+.section3{
+    min-height: 300px;
+    padding: 50px 0px;
+    background: lightgreen;
+}
+.link{
+    padding: 15px 25px;
+    color: red;
+}
+.link:hover{
+    background: line;
 }

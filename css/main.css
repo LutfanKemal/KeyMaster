@@ -43,10 +43,11 @@ body,html{
 .col-kanan{
     background: #FFFFFF;
     font-size: 20px;
+    padding: 30px 0px;
 }
 .section3{
     padding: 80px 10px;
-    background: #A3AEFF;
+    background: #AFD9FF;
     font-family: cursive;
     text-align: justify;
 }
